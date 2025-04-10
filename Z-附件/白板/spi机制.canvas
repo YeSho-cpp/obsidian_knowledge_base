@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"file","file":"Z-附件/images/image1.png","id":"6c7d1db9f6c8a33b","x":-760,"y":-297,"width":400,"height":152,"color":"1"},
+		{"type":"file","file":"Z-附件/images/Pasted image 20230602115215.png","id":"cd0273f747315839","x":-220,"y":-287,"width":399,"height":132},
+		{"type":"text","text":"加载","id":"e713264c72df9aaf","x":-320,"y":-281,"width":60,"height":60},
+		{"type":"file","file":"Z-附件/images/Pasted image 20230602115322.png","id":"5b52039fb628eede","x":-220,"y":-540,"width":399,"height":166,"color":"4"},
+		{"type":"text","text":"调用方","id":"d6fe6d0b9eae10f9","x":-600,"y":-487,"width":80,"height":60},
+		{"type":"text","text":"引入实现","id":"9ff48db33e437128","x":-415,"y":-537,"width":55,"height":50},
+		{"type":"text","text":"spi自动加载","id":"f5fddbd927b1bec5","x":-422,"y":-427,"width":70,"height":50},
+		{"type":"text","text":"实现","id":"626378ec8aeef17d","x":280,"y":-512,"width":60,"height":50},
+		{"type":"file","file":"Z-附件/images/Pasted image 20230602115654.png","id":"06fead8b4b2ec37a","x":260,"y":-266,"width":390,"height":91,"color":"2"},
+		{"type":"text","text":"标准服务接口","id":"6b24764a6a9d0e4c","x":395,"y":-487,"width":120,"height":60}
+	],
+	"edges":[
+		{"id":"8387eef5c1ca7ca0","fromNode":"d6fe6d0b9eae10f9","fromSide":"bottom","toNode":"6c7d1db9f6c8a33b","toSide":"top"},
+		{"id":"44ffed75a0964a31","fromNode":"cd0273f747315839","fromSide":"left","toNode":"6c7d1db9f6c8a33b","toSide":"right"},
+		{"id":"4a4ce7f8165c90be","fromNode":"5b52039fb628eede","fromSide":"left","toNode":"d6fe6d0b9eae10f9","toSide":"right"},
+		{"id":"40b1f9d6ec9a573e","fromNode":"cd0273f747315839","fromSide":"top","toNode":"5b52039fb628eede","toSide":"bottom"},
+		{"id":"1225a869cfcb8a64","fromNode":"6b24764a6a9d0e4c","fromSide":"left","toNode":"5b52039fb628eede","toSide":"right"},
+		{"id":"19f9fc34b9138833","fromNode":"06fead8b4b2ec37a","fromSide":"left","toNode":"cd0273f747315839","toSide":"right"},
+		{"id":"a5410dd3e05dd505","fromNode":"06fead8b4b2ec37a","fromSide":"top","toNode":"6b24764a6a9d0e4c","toSide":"bottom"},
+		{"id":"c8c232cb82768749","fromNode":"6b24764a6a9d0e4c","fromSide":"bottom","toNode":"06fead8b4b2ec37a","toSide":"top"}
+	]
+}

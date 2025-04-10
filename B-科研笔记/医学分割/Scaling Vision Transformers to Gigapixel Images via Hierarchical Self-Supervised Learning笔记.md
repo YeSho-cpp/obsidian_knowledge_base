@@ -1,0 +1,1 @@
+Moreover,we further hypothesize the the recursive nature of can enable VIT pretraining techniques to generalize across stages for high-resolution images.

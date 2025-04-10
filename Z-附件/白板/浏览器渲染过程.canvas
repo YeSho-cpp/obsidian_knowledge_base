@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"","id":"d063342cbe51a395","x":280,"y":-320,"width":250,"height":285},
+		{"id":"69a22c6aef7275d2","x":296,"y":8,"width":250,"height":60,"type":"text","text":""},
+		{"type":"file","file":"Z-附件/images/浏览器的渲染流程.png","id":"63e91354f1017519","x":-700,"y":-172,"width":695,"height":360}
+	],
+	"edges":[
+		{"id":"cc18622c989a8c5e","fromNode":"63e91354f1017519","fromSide":"right","toNode":"d063342cbe51a395","toSide":"left"},
+		{"id":"732e8c25e25c99a8","fromNode":"63e91354f1017519","fromSide":"right","toNode":"69a22c6aef7275d2","toSide":"left"}
+	]
+}
